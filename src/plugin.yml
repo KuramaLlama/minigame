@@ -1,0 +1,15 @@
+main: Launcher
+name: Plugin
+version: 1.0
+description: First plugin!
+
+commands:
+  hello:
+    description: Says hello!
+    usage: /hello
+  build:
+    description: Toggles the break state
+    usage: /build
+  kys:
+    description: I dare you....
+    usage: /kys
